@@ -1,46 +1,62 @@
-/* Room.css */
+/* RoomDetails.css */
 
-.rooms-container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.rooms-header {
-  font-size: 28px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
-
-.rooms-list {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.room-item {
-  margin-right: 10px;
-  margin-bottom: 10px;
-}
-
-.room-link {
-  display: inline-block;
-  padding: 10px 15px;
-  background-color: #007bff;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 20px;
-  transition: background-color 0.3s ease;
-}
-
-.room-link:hover {
-  background-color: #0056b3;
-}
-
-@media screen and (max-width: 600px) {
-  .room-link {
-    font-size: 14px;
-    padding: 8px 12px;
+.room-details-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
   }
-}
+  
+  .room-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .room-info {
+    margin-bottom: 10px;
+  }
+  
+  .programs-heading {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .program-container {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  .program-info {
+    margin-bottom: 10px;
+  }
+  
+  .examinee-count-label {
+    margin-top: 20px;
+    display: block;
+  }
+  
+  .examinee-count-input {
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .submit-button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .loading-message {
+    font-size: 18px;
+    font-style: italic;
+    color: #777;
+  }
+  
