@@ -6,6 +6,18 @@ const RoomDetails = () => {
   const { roomName } = useParams();
   const [room, setRoom] = useState(null);
   const navigate = useNavigate();
+  const [date, setDate] = useState(null)
+
+  const isInputDisabled = () => {
+    // Define your allowed time (e.g., 12:00 PM) and convert it to a JavaScript Date object
+    const allowedTime = new Date(/* specify your allowed time here */);
+
+    // Get the current time
+    const currentTime = new Date();
+
+    // Compare the current time with the allowed time
+    return currentTime > allowedTime;
+  };
 
   useEffect(() => {
     const fetchRoomDetails = async () => {
@@ -22,6 +34,22 @@ const RoomDetails = () => {
 
     fetchRoomDetails();
   }, [roomName, navigate]);
+
+  useEffect(() => {
+    const fetchDate = async () => {
+      try {
+        const response = await fetch(`https://attendance-green-five.vercel.app/rooms/`);
+        const data = await response.json();
+        setDate(data.time);
+      } catch (error) {
+        console.error('Error fetching room details:', error);
+        // Redirect to the Rooms page or handle the error as needed
+        navigate('/');
+      }
+    };
+    fetchDate();
+    console.log(date)
+  }, []);
 
   const handleExamineeCountChange = (courseCode, newCount) => {
     // Update the local state first
