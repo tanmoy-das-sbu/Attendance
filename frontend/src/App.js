@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Rooms from './component/Room.jsx'; 
 import RoomDetails from './component/RoomDetails.jsx'; 
+import "./App.css"
 
 function LoginForm({ onLogin }) {
   const [username, setUsername] = useState('');
@@ -30,16 +31,28 @@ function LoginForm({ onLogin }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <label>
+    <form className="login-form" onSubmit={handleSubmit}>
+      <label className="form-label">
         Username:
-        <input type="text" value={username} onChange={(e) => setUsername(e.target.value)} />
+        <input
+          type="text"
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+          className="form-input"
+        />
       </label>
-      <label>
+      <label className="form-label">
         Password:
-        <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} />
+        <input
+          type="password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          className="form-input"
+        />
       </label>
-      <button type="submit">Login</button>
+      <button type="submit" className="form-button">
+        Login
+      </button>
     </form>
   );
 }
