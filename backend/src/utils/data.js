@@ -1545,6 +1545,432 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "20 FEBRUARY 2024",
+        "time": "2-3.30 AM",
+        "rooms": [  
+            {
+                "room": "A1-701",
+                "strength": 36,
+                "invigilators": ["Dr. Sabita Kumari"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-703",
+                "strength": 120,
+                "invigilators": ["Dr. Shubhrajit Mantry", "Mr. Rahul Prakash", "Mrs. Namrata Singh"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 30,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 30,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eng Sem II",
+                        "capacity": 30,
+                        "course_code": "BAE-202",
+                        "course_name": "British Poetry & Drama(14th to 17th Century)",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem II",
+                        "capacity": 30,
+                        "course_code": "MBA-1201",
+                        "course_name": "Financial Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-704",
+                "strength": 36,
+                "invigilators": ["Mr. Ashutosh Behera"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-705",
+                "strength": 36,
+                "invigilators": ["Mr. C.S. Mahtha"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-707",
+                "strength": 36,
+                "invigilators": ["Mr. Anand Kr Vishwakarma"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-708",
+                "strength": 36,
+                "invigilators": ["Mr. Sanjeev Srivastava"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-601",
+                "strength": 36,
+                "invigilators": ["Mr. Rahul Kujur"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-602",
+                "strength": 36,
+                "invigilators": ["Mr. Dharmendra Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-603",
+                "strength": 120,
+                "invigilators": ["Mr. Abhijit Chatterjee", "Mr. Pritam Mahto", "Mr. Pankaj Keshri"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 30,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 30,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eng Sem II",
+                        "capacity": 30,
+                        "course_code": "BAE-202",
+                        "course_name": "British Poetry & Drama(14th to 17th Century)",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem II",
+                        "capacity": 30,
+                        "course_code": "MBA-1201",
+                        "course_name": "Financial Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-604",
+                "strength": 36,
+                "invigilators": ["Mr. Mahendra Kumar Singh"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-605",
+                "strength": 36,
+                "invigilators": ["Dr. Sanjeeb Kumar Kar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-607",
+                "strength": 36,
+                "invigilators": ["Dr. Atul Kr Srivastava"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-608",
+                "strength": 36,
+                "invigilators": ["Mr. Rajeev Ranjan (Law)"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-501",
+                "strength": 36,
+                "invigilators": ["Mr. Sarbjeet Prasad"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-502",
+                "strength": 36,
+                "invigilators": ["Mr. Vivek Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-503",
+                "strength": 114,
+                "invigilators": ["Ms. Rashmi Sahay", "Mr. Krishna Murari", "Mr. Amrit Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 30,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 30,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CE Sem VI",
+                        "capacity": 19,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma EEE Sem VI",
+                        "capacity": 14,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eng Sem II",
+                        "capacity": 10,
+                        "course_code": "BAE-202",
+                        "course_name": "British Poetry & Drama(14th to 17th Century)",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "M.Com Sem II",
+                        "capacity": 3,
+                        "course_code": "MC-1201",
+                        "course_name": "Financial Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem II",
+                        "capacity": 8,
+                        "course_code": "MBA-1201",
+                        "course_name": "Financial Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-504",
+                "strength": 36,
+                "invigilators": ["Mr. Pradipta Ray"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            }
+        ]
     }
 ]
 

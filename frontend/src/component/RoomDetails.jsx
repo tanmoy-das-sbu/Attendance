@@ -3,21 +3,11 @@ import { useNavigate, useParams } from 'react-router-dom';
 import "./RoomDetails.css"
 
 const RoomDetails = () => {
+
   const { roomName } = useParams();
   const [room, setRoom] = useState(null);
   const navigate = useNavigate();
-  const [date, setDate] = useState(null)
-
-  const isInputDisabled = () => {
-    // Define your allowed time (e.g., 12:00 PM) and convert it to a JavaScript Date object
-    const allowedTime = new Date(/* specify your allowed time here */);
-
-    // Get the current time
-    const currentTime = new Date();
-
-    // Compare the current time with the allowed time
-    return currentTime > allowedTime;
-  };
+  const [allowedTime, setallowedTime] = useState(null)
 
   useEffect(() => {
     const fetchRoomDetails = async () => {
@@ -40,16 +30,16 @@ const RoomDetails = () => {
       try {
         const response = await fetch(`https://attendance-green-five.vercel.app/rooms/`);
         const data = await response.json();
-        setDate(data.time);
+        setallowedTime(data[0].time);
+        console.log(allowedTime)
       } catch (error) {
         console.error('Error fetching room details:', error);
-        // Redirect to the Rooms page or handle the error as needed
         navigate('/');
       }
     };
     fetchDate();
-    console.log(date)
-  }, []);
+    
+  }, [allowedTime,navigate]);
 
   const handleExamineeCountChange = (courseCode, newCount) => {
     // Update the local state first
