@@ -10,7 +10,7 @@ const RoomDetails = () => {
   useEffect(() => {
     const fetchRoomDetails = async () => {
       try {
-        const response = await fetch(`http://localhost:8000/rooms/${roomName}`);
+        const response = await fetch(`https://attendance-green-five.vercel.app/rooms/${roomName}`);
         const data = await response.json();
         setRoom(data);
       } catch (error) {
@@ -36,7 +36,7 @@ const RoomDetails = () => {
     try {
       await Promise.all(
         room.programs.map(async (program) => {
-          const response = await fetch(`http://localhost:8000/rooms/${roomName}/${program.course_code}`, {
+          const response = await fetch(`https://attendance-green-five.vercel.app/rooms/${roomName}/${program.course_code}`, {
             method: 'PUT',
             headers: {
               'Content-Type': 'application/json',

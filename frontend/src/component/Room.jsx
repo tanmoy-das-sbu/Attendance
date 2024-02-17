@@ -8,7 +8,7 @@ const Rooms = () => {
     // Fetch room data from the backend
     const fetchRooms = async () => {
       try {
-        const response = await fetch('http://localhost:8000/rooms');
+        const response = await fetch('https://attendance-green-five.vercel.app/rooms');
         const data = await response.json();
         setRooms(data[0].rooms);
       } catch (error) {
