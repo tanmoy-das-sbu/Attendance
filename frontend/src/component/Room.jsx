@@ -47,11 +47,11 @@ const Rooms = () => {
                 <img src="classroom.svg" alt="" height={30} width={30} />
                 <div className="card-info-div">
                   <h3 >Room Name: {room.room}</h3>
-                  <h3 >Room Capacity: {room.strength}</h3>
-                  <h3 >Invigilators:
+                  <h5 >Room Capacity: {room.strength}</h5>
+                  <h5 >Invigilators:
                       {room.invigilators.map((inv, index) => (
                         <label key={index} className="inv">{inv},</label>))}
-                  </h3>
+                  </h5>
                 </div>
               </div>
             </Link>

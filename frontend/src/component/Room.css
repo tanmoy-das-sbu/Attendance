@@ -38,9 +38,9 @@
 .room-link-div {
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  gap: 5px;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .card-info-div {
