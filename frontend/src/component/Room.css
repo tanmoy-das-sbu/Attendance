@@ -34,4 +34,10 @@
   .room-link:hover {
     background-color: #f0f0f0;
   }
-  
+  .room-link-div{
+
+  }
+  .card-info-div{
+    display: flex;
+    flex-direction: column;
+  }

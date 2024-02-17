@@ -43,7 +43,13 @@ const Rooms = () => {
         {filteredRooms.map((room) => (
           <li key={room._id} className="room-item">
             <Link to={`/${room.room}`} className="room-link">
-              {room.room}
+              <div className='room-link-div'>
+                <img src="classroom.svg" alt="" height={16} width={16} />
+                <div className="card-info-div">
+                  <h3 className="text-base font-bold leading-none">{room.room}</h3>
+                  <p className="text-sm leading-none">{room.strength}</p>
+                </div>
+              </div>
             </Link>
           </li>
         ))}
