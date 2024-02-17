@@ -53,7 +53,7 @@ function App() {
 
   const handleLogout = async () => {
     try {
-      const response = await fetch('https://attendance-green-five.vercel.app/login');
+      const response = await fetch('https://attendance-green-five.vercel.app/logout');
       if (response.ok) {
         setAuthenticated(false);
       }
