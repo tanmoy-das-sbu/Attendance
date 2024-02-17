@@ -16,7 +16,7 @@ function LoginForm({ onLogin }) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ username, password }), // Ensure the field names match the server-side configuration
+        body: JSON.stringify({ username, password }), 
       });
 
       if (response.ok) {
@@ -51,16 +51,7 @@ function App() {
     setAuthenticated(true);
   };
 
-  const handleLogout = async () => {
-    try {
-      const response = await fetch('https://attendance-green-five.vercel.app/logout');
-      if (response.ok) {
-        setAuthenticated(false);
-      }
-    } catch (error) {
-      console.error('Logout error:', error);
-    }
-  };
+
 
   return (
     <Router>
@@ -71,7 +62,7 @@ function App() {
             authenticated ? (
               <>
                 <Rooms />
-                <button onClick={handleLogout}>Logout</button>
+
               </>
             ) : (
               <LoginForm onLogin={handleLogin} />
