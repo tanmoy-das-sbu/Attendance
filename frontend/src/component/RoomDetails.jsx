@@ -52,7 +52,7 @@ const RoomDetails = () => {
     }));
   };
   const handleSubmit = async () => {
-    setLoading(true)
+    
     const confirmSubmission = window.confirm('Are you sure you want to submit the examinee counts?');
 
   if (!confirmSubmission) {
@@ -77,6 +77,7 @@ const RoomDetails = () => {
 
       console.log('Examinee counts updated successfully!');
       window.alert('Examinee counts submitted successfully!');
+      setLoading(true)
     } catch (error) {
       console.error(error.message);
     }
@@ -115,7 +116,7 @@ const RoomDetails = () => {
             </div>
           ))}
           <button onClick={handleSubmit} className="submit-button">
-            {loading?"Loading...": "Submit"}
+            {loading?"Submitted": "Submit"}
           </button>
         </>
       ) : (
