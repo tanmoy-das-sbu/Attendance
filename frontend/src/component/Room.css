@@ -12,6 +12,11 @@ text-align: center;
 }
 
 .rooms-header {
+  font-size: 36px;
+  font-weight: bold;
+
+}
+.rooms-sub-header {
   font-size: 28px;
   font-weight: bold;
 

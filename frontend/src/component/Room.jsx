@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './Room.css';
 
 const Rooms = () => {
+  const[data,setData] = useState([])
   const [rooms, setRooms] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
 
@@ -12,6 +13,7 @@ const Rooms = () => {
       try {
         const response = await fetch('https://attendance-green-five.vercel.app/rooms');
         const data = await response.json();
+        setData(data)
         setRooms(data[1].rooms);
       } catch (error) {
         console.error('Error fetching room data:', error);
@@ -29,6 +31,9 @@ const Rooms = () => {
   return (
     <div className="rooms-container">
       <h1 className="rooms-header">Room Tabs</h1>
+      <h2 className="rooms-sub-header">{data[0].date}</h2>
+      <h2 className="rooms-sub-header">{data[0].time}</h2>
+
 
       
       <div className='search-wrapper'>
