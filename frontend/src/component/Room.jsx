@@ -30,28 +30,32 @@ const Rooms = () => {
     <div className="rooms-container">
       <h1 className="rooms-header">Room Tabs</h1>
 
-      {/* Search bar */}
-      <input
+      
+      <div className='search-wrapper'>
+        <img src="search.svg" alt="" width={30} height={30}/>
+        <input
         type="text"
         placeholder="Search rooms"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         className="search-bar"
       />
+      </div>
 
       <ul className="rooms-list">
         {filteredRooms.map((room) => (
           <li key={room._id} className="room-item">
             <Link to={`/${room.room}`} className="room-link">
               <div className='room-link-div'>
-                <img src="classroom.svg" alt="" height={30} width={30} />
                 <div className="card-info-div">
                   <h3 >Room Name: {room.room}</h3>
-                  <h5 >Room Capacity: {room.strength}</h5>
-                  <h5 >Invigilators:
+                 <div>
+                 <h5 >Room Capacity: {room.strength}</h5>
+                  <h5 >Invigilators :
                       {room.invigilators.map((inv, index) => (
-                        <label key={index} className="inv">{inv},</label>))}
+                        <label key={index} className="inv">{inv}, </label>))}
                   </h5>
+                 </div>
                 </div>
               </div>
             </Link>

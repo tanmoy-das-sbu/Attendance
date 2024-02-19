@@ -1,15 +1,20 @@
 /* App.css (or any other appropriate CSS file) */
+.rooms-header{
+width: 100%;
+text-align: center;
+  color: #01579B;
+}
 
 .rooms-container {
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+
 }
 
 .rooms-header {
   font-size: 28px;
   font-weight: bold;
-  margin-bottom: 20px;
+
 }
 
 .rooms-list {
@@ -17,13 +22,11 @@
   padding: 0;
 }
 
-.room-item {
-  margin-bottom: 10px;
-}
 
 .room-link {
+  margin: 20px 20px;
   display: block;
-  padding: 10px;
+margin-bottom: 20px;
   border: 1px solid #ccc;
   text-decoration: none;
   color: #333;
@@ -32,21 +35,43 @@
 }
 
 .room-link:hover {
-  background-color: #f0f0f0;
+  background-color: #E1F5FE;
 }
 
 .room-link-div {
   display: flex;
-  flex-direction: row;
-  gap: 5px;
   align-items: center;
-  justify-content: space-between;
+  justify-content: start
 }
 
 .card-info-div {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  align-items: start;
+  justify-content: center;
+}
+.card-info-div h3, .card-info-div h5{
+margin: 10px;
+}
+ .card-info-div h3{
+color: #01579B;
+}
+.search-wrapper{
+  display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: row;
+  gap: 10px;
+  padding: 20px;
+}
+.search-bar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  outline: none;
+  border: 2px solid #f0f0f0;
+  padding: 8px;
+
 }
