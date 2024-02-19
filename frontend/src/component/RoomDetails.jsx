@@ -8,6 +8,7 @@ const RoomDetails = () => {
   const [room, setRoom] = useState(null);
   const navigate = useNavigate();
   const [allowedTime, setallowedTime] = useState(null)
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     const fetchRoomDetails = async () => {
@@ -51,6 +52,7 @@ const RoomDetails = () => {
     }));
   };
   const handleSubmit = async () => {
+    setLoading(true)
     const confirmSubmission = window.confirm('Are you sure you want to submit the examinee counts?');
 
   if (!confirmSubmission) {
@@ -113,7 +115,7 @@ const RoomDetails = () => {
             </div>
           ))}
           <button onClick={handleSubmit} className="submit-button">
-            Submit
+            {loading?"Loading...": "Submit"}
           </button>
         </>
       ) : (
