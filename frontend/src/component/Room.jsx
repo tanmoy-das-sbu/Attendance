@@ -12,7 +12,7 @@ const Rooms = () => {
       try {
         const response = await fetch('https://attendance-green-five.vercel.app/rooms');
         const data = await response.json();
-        setRooms(data[0].rooms);
+        setRooms(data[1].rooms);
       } catch (error) {
         console.error('Error fetching room data:', error);
       }

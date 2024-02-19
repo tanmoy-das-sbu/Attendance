@@ -1969,7 +1969,959 @@
                         "present_examinee": 0
                     }
                 ]
-            }
+            },
+            {
+                "room": "A1-505",
+                "strength": 36,
+                "invigilators": ["Mr. Kishlay Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 18,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-507",
+                "strength": 36,
+                "invigilators": ["Ms. Sweta Kumari"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem II",
+                        "capacity": 11,
+                        "course_code": "BBA-205",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 7,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-508",
+                "strength": 36,
+                "invigilators": ["Mr. Indal Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-401",
+                "strength": 36,
+                "invigilators": ["Dr. Anjali Srivastava"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-402",
+                "strength": 36,
+                "invigilators": ["Ms. Ruchi Mishra"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-403",
+                "strength": 36,
+                "invigilators": ["Ms. Jagriti"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-404",
+                "strength": 36,
+                "invigilators": ["Mr. Sandip Chatterjee"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-405",
+                "strength": 36,
+                "invigilators": ["Ms. Ishika Singh"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-406",
+                "strength": 36,
+                "invigilators": ["Mr. Manmohan Khandelwal"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 18,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-409",
+                "strength": 36,
+                "invigilators": ["Dr. Puja Prerna"],
+                "programs": [
+                    {
+                        "program_name": "BCA Sem II",
+                        "capacity": 4,
+                        "course_code": "BCA-205",
+                        "course_name": "Mathematics-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 14,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-410",
+                "strength": 36,
+                "invigilators": ["Ms. Komal Gupta"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 18,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-301",
+                "strength": 36,
+                "invigilators": ["Dr. Prakash Kumar"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem II",
+                        "capacity": 2,
+                        "course_code": "BCH-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com E-Com Sem II",
+                        "capacity": 15,
+                        "course_code": "BCHE-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com Tax Sem II",
+                        "capacity": 1,
+                        "course_code": "BCHT-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-302",
+                "strength": 36,
+                "invigilators": ["Dr. Sandeep Choudhary"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com Tax Sem II",
+                        "capacity": 6,
+                        "course_code": "BCHT-202",
+                        "course_name": "Business Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BBA IN SB&PM Sem II",
+                        "capacity": 12,
+                        "course_code": "BSPM-204",
+                        "course_name": "Business Environment",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-303",
+                "strength": 36,
+                "invigilators": ["Dr. Priyanka Mishra"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "MBA-2401",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-304",
+                "strength": 36,
+                "invigilators": ["Dr. Bishnu Charan Rout"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "MBA-2401",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-305",
+                "strength": 36,
+                "invigilators": ["Mr. Animesh Priyadarshi"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "MBA-2401",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-306",
+                "strength": 36,
+                "invigilators": ["Mrs. Sweta Sinha"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "MBA-2401",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-309",
+                "strength": 36,
+                "invigilators": ["Dr. Rohit Apurva"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "MBA-2401",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "M.Com Sem IV",
+                        "capacity": 5,
+                        "course_code": "MC-2402",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MA English Sem II",
+                        "capacity": 7,
+                        "course_code": "MAE-1201",
+                        "course_name": "British Poetry (19th century to Modern Period)",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-310",
+                "strength": 36,
+                "invigilators": ["Dr. Vikash Kumar"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MBA Sem IV",
+                        "capacity": 6,
+                        "course_code": "MBA-2401",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "M.Com Sem IV",
+                        "capacity": 5,
+                        "course_code": "MC-2402",
+                        "course_name": "Strategic Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MA English Sem II",
+                        "capacity": 7,
+                        "course_code": "MAE-1201",
+                        "course_name": "British Poetry (19th century to Modern Period)",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-107",
+                "strength": 40,
+                "invigilators": ["Mr. Pradeep Kumar"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem II",
+                        "capacity": 3,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CE Sem II",
+                        "capacity": 12,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE Sem II",
+                        "capacity": 5,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eco Sem II",
+                        "capacity": 20,
+                        "course_code": "BEH-204",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-108",
+                "strength": 56,
+                "invigilators": ["Dr. Sanjeev Kr Sinha", "Mr. Abhay Rajak"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech EEE Sem II",
+                        "capacity": 2,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech ECE Sem II",
+                        "capacity": 8,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech ME Sem II",
+                        "capacity": 2,
+                        "course_code": "BSC-201",
+                        "course_name": "Physics",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eco Sem II",
+                        "capacity": 2,
+                        "course_code": "BEH-204",
+                        "course_name": "Environmental Studies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA LLB Sem II",
+                        "capacity": 25,
+                        "course_code": "BAL-201",
+                        "course_name": "Political Science II (Political Thought)",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma ME Sem IV",
+                        "capacity": 17,
+                        "course_code": "PCC-ME-D405",
+                        "course_name": "Theory of Machines",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-109",
+                "strength": 40,
+                "invigilators": ["Dr. Kunal Sinha"],
+                "programs": [
+                    {
+                        "program_name": "BA LLB Sem II",
+                        "capacity": 20,
+                        "course_code": "BAL-201",
+                        "course_name": "Political Science II (Political Thought)",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem II",
+                        "capacity": 20,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-203",
+                "strength": 55,
+                "invigilators": ["Dr. Mukesh Babu Gupta", "Mr. RNP Barnwal"],
+                "programs": [
+                    {
+                        "program_name": "Diploma CE Sem IV",
+                        "capacity": 14,
+                        "course_code": "PCC-CE-D401",
+                        "course_name": "Advanced Surveying",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Pharm Sem II",
+                        "capacity": 13,
+                        "course_code": "BP204T",
+                        "course_name": "Pathophysiology- Theory",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem II",
+                        "capacity": 28,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-302",
+                "strength": 46,
+                "invigilators": ["Mr. Shreya Bharti"],
+                "programs": [
+                    {
+                        "program_name": "Diploma CSE Sem II",
+                        "capacity": 26,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BVA Sem II",
+                        "capacity": 6,
+                        "course_code": "BVA-202",
+                        "course_name": "Medieval to Modern Indian Art",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "MVA Sem II",
+                        "capacity": 1,
+                        "course_code": "MVA-1202",
+                        "course_name": "Aesthetic of Modern Indian Art",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Pharm Sem II",
+                        "capacity": 13,
+                        "course_code": "BP204T",
+                        "course_name": "Pathophysiology- Theory",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-303",
+                "strength": 40,
+                "invigilators": ["Dr. Saurav Kumar"],
+                "programs": [
+                    {
+                        "program_name": "Diploma CSE Sem II",
+                        "capacity": 12,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CE Sem II",
+                        "capacity": 8,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Pharma Sem II",
+                        "capacity": 20,
+                        "course_code": "BP204T",
+                        "course_name": "Pathophysiology- Theory",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-304",
+                "strength": 52,
+                "invigilators": ["Dr. Utsav Vishal", "Dr. Vijay Kr Saw"],
+                "programs": [
+                    {
+                        "program_name": "MCA Sem II",
+                        "capacity": 21,
+                        "course_code": "MCA-PCC-1206",
+                        "course_name": "Software Engineering",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CE Sem II",
+                        "capacity": 13,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma EEE Sem II",
+                        "capacity": 13,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Pharma Sem II",
+                        "capacity": 5,
+                        "course_code": "BP204T",
+                        "course_name": "Pathophysiology- Theory",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-305",
+                "strength": 52,
+                "invigilators": ["Dr. Sagar Sarangi", "Mr. Prakash Anand"],
+                "programs": [
+                    {
+                        "program_name": "MCA Sem II",
+                        "capacity": 26,
+                        "course_code": "MCA-PCC-1206",
+                        "course_name": "Software Engineering",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma ECE Sem II",
+                        "capacity": 3,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma EEE Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma ME Sem II",
+                        "capacity": 5,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-307",
+                "strength": 36,
+                "invigilators": ["Dr. Rashi Malpani"],
+                "programs": [
+                    {
+                        "program_name": "MCA Sem II",
+                        "capacity": 8,
+                        "course_code": "MCA-PCC-1206",
+                        "course_name": "Software Engineering",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem VI",
+                        "capacity": 10,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma ME Sem II",
+                        "capacity": 18,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-01",
+                "strength": 34,
+                "invigilators": ["Dr. Sandip Kr Singh Modak"],
+                "programs": [
+                    {
+                        "program_name": "Diploma ME Sem II",
+                        "capacity": 6,
+                        "course_code": "BSC-D203",
+                        "course_name": "Applied Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem VI",
+                        "capacity": 28,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-02",
+                "strength": 56,
+                "invigilators": ["Dr. Ashish Kr Sinha", "Mr. Neeraj Nayan"],
+                "programs": [
+                    {
+                        "program_name": "MA Economics Sem II",
+                        "capacity": 2,
+                        "course_code": "MAEC-1201",
+                        "course_name": "Indian Economy",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "M.Tech CSE Sem II",
+                        "capacity": 2,
+                        "course_code": "PCC-CSE-MCS-1201",
+                        "course_name": "Advanced Graph Theory",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "M.Tech TE Sem II",
+                        "capacity": 1,
+                        "course_code": "PCC-ME-MTE-1201",
+                        "course_name": "Advanced Refrigeration & Air Conditioning",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma EEE Sem IV",
+                        "capacity": 23,
+                        "course_code": "PCC-EEE-D401",
+                        "course_name": "Wind Power Technologies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma ME Sem VI",
+                        "capacity": 20,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Sc. Mathematics Sem II",
+                        "capacity": 3,
+                        "course_code": "BSC-BSMH-201",
+                        "course_name": "Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem VI",
+                        "capacity": 5,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-03",
+                "strength": 48,
+                "invigilators": ["Dr. Rohit Mukherjee", "Ms. Anusha Lal"],
+                "programs": [
+                    {
+                        "program_name": "Diploma EEE Sem IV",
+                        "capacity": 4,
+                        "course_code": "PCC-EEE-D401",
+                        "course_name": "Wind Power Technologies",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma EEE Sem VI",
+                        "capacity": 17,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Sc. Mathematics Sem II",
+                        "capacity": 9,
+                        "course_code": "BSC-BSMH-201",
+                        "course_name": "Chemistry",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-D407",
+                        "course_name": "Computer Networks",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-04",
+                "strength": 54,
+                "invigilators": ["Dr. Archana Maurya", "Ms. Anjana Kumari Singh"],
+                "programs": [
+                    {
+                        "program_name": "Diploma EEE Sem VI",
+                        "capacity": 12,
+                        "course_code": "HSMC-D601",
+                        "course_name": "Entrepreneurship & Startups",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem IV",
+                        "capacity": 28,
+                        "course_code": "PCC-CSE-D407",
+                        "course_name": "Computer Networks",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "M.Sc. in Yogic Science Sem II",
+                        "capacity": 8,
+                        "course_code": "MY-1201",
+                        "course_name": "Patanjal Yoga Darshan",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Sc. in Yogic Science Sem II",
+                        "capacity": 4,
+                        "course_code": "BY-110",
+                        "course_name": "Human Anatomy and Physiology-I",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma in Yoga & Fitness Trainer Sem II",
+                        "capacity": 2,
+                        "course_code": "DY-1201",
+                        "course_name": "Preksha Dhayan: Sidhant Evam Prayog",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-09",
+                "strength": 56,
+                "invigilators": ["Dr. Abhishek Chauhan", "Mr. Amrendra Dutt Dwivedi"],
+                "programs": [
+                    {
+                        "program_name": "BA LLB Sem II",
+                        "capacity": 16,
+                        "course_code": "BAL-201",
+                        "course_name": "Political Science II (Political Thought)",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BBA LLB Sem II",
+                        "capacity": 12,
+                        "course_code": "BBL-201",
+                        "course_name": "Financial Accounting",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-D407",
+                        "course_name": "Computer Networks",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma ECE Sem IV",
+                        "capacity": 4,
+                        "course_code": "PEC-ECE-D403",
+                        "course_name": "Computer Networks",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "Diploma CE Sem IV",
+                        "capacity": 6,
+                        "course_code": "PCC-CE-D401",
+                        "course_name": "Advanced Surveying",
+                        "present_examinee": 0
+                    }
+                ]
+            },
         ]
     }
 ]
