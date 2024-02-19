@@ -51,6 +51,10 @@ const RoomDetails = () => {
     }));
   };
   const handleSubmit = async () => {
+    const confirmSubmission = window.confirm('Are you sure you want to submit the examinee counts?');
+
+  if (!confirmSubmission) {
+    return; }
     try {
       await Promise.all(
         room.programs.map(async (program) => {
@@ -70,6 +74,7 @@ const RoomDetails = () => {
       );
 
       console.log('Examinee counts updated successfully!');
+      window.alert('Examinee counts submitted successfully!');
     } catch (error) {
       console.error(error.message);
     }
