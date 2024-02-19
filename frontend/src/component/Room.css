@@ -17,8 +17,9 @@ text-align: center;
 
 }
 .rooms-sub-header {
-  font-size: 28px;
-  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+  margin:5px;
 
 }
 
@@ -46,13 +47,13 @@ margin-bottom: 20px;
 .room-link-div {
   display: flex;
   align-items: center;
-  justify-content: start
+  justify-content: flex-start;
 }
 
 .card-info-div {
   display: flex;
   flex-direction: column;
-  align-items: start;
+  align-items: flex-start;
   justify-content: center;
 }
 .card-info-div h3, .card-info-div h5{

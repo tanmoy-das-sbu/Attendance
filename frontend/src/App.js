@@ -2,14 +2,17 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Rooms from './component/Room.jsx';
 import RoomDetails from './component/RoomDetails.jsx';
-import "./App.css"
+import './App.css';
 
 function LoginForm({ onLogin }) {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    setLoading(true);
 
     try {
       const response = await fetch('https://attendance-green-five.vercel.app/login', {
@@ -23,18 +26,22 @@ function LoginForm({ onLogin }) {
       if (response.ok) {
         onLogin();
       } else {
-        alert('Invalid username or password');
+        setError("INVALID USERNAME OR PASSWORD");
       }
     } catch (error) {
       console.error('Login error:', error);
+      setError('An error occurred during login.');
+    } finally {
+      setLoading(false);
     }
   };
 
   return (
-    <div className='form-wrapper' >
+    <div className="form-wrapper">
       <form className="login-form" onSubmit={handleSubmit}>
         <h1>Invigilator Login </h1>
         <h5>Login to your account.</h5>
+        
         <label className="form-label">
           Username:
           <input
@@ -54,8 +61,9 @@ function LoginForm({ onLogin }) {
           />
         </label>
         <button type="submit" className="form-button">
-          Login
+          {loading ? 'Loading...' : 'Login'}
         </button>
+        {error && <div className="error-message">{error}</div>}
       </form>
     </div>
   );
@@ -68,8 +76,6 @@ function App() {
     setAuthenticated(true);
   };
 
-
-
   return (
     <Router>
       <Routes>
@@ -79,7 +85,6 @@ function App() {
             authenticated ? (
               <>
                 <Rooms />
-
               </>
             ) : (
               <LoginForm onLogin={handleLogin} />

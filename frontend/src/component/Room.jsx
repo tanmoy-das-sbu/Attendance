@@ -6,6 +6,8 @@ const Rooms = () => {
 
   const [rooms, setRooms] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
+  const [time, setTime] = useState('');
+
 
   useEffect(() => {
     // Fetch room data from the backend
@@ -14,6 +16,7 @@ const Rooms = () => {
         const response = await fetch('https://attendance-green-five.vercel.app/rooms');
         const data = await response.json();
         setRooms(data[0].rooms);
+        setTime(data[0].time)
       } catch (error) {
         console.error('Error fetching room data:', error);
       }
@@ -30,10 +33,7 @@ const Rooms = () => {
   return (
     <div className="rooms-container">
       <h1 className="rooms-header">Room Tabs</h1>
-
-
-
-      
+      <h5 className='rooms-sub-header'>Exam Time: {time}</h5>
       <div className='search-wrapper'>
         <img src="search.svg" alt="" width={30} height={30}/>
         <input
