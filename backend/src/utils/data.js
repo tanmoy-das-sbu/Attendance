@@ -4449,5 +4449,1223 @@
             }
         ]
     },
-    
+    {
+        "date": "21 FEBRUARY 2024",
+        "time": "10-11.30 AM",
+        "rooms": [
+            {
+                "room": "A1-701",
+                "strength": 18,
+                "invigilators": ["Dr. Sanjeev Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-703",
+                "strength": 18,
+                "invigilators": ["Dr. Megha Sinha", "Mrs Moutoshi Saha", "Dr. Sanjeev Kumar Sinha"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 30,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 30,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 30,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-703",
+                "strength": 18,
+                "invigilators": ["Dr. Megha Sinha", "Mrs Moutoshi Saha", "Dr. Sanjeev Kumar Sinha"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 30,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 30,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 30,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-704",
+                "strength": 18,
+                "invigilators": ["Dr. Puja Mishra"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-705",
+                "strength": 18,
+                "invigilators": ["Dr. Pintu Das"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-707",
+                "strength": 18,
+                "invigilators": ["Dr. Nitya Garg"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-708",
+                "strength": 18,
+                "invigilators": ["Mr Chandra Shekhar Mahtha"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-601",
+                "strength": 18,
+                "invigilators": ["Mr Anand Kr Vishwakarma"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-602",
+                "strength": 18,
+                "invigilators": ["Dr. Ashok Kumar Asthana"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-603",
+                "strength": 90,
+                "invigilators": ["Mr. Shridhar B Dandin", "Mr Sanjeev Srivastava", "Dr. Santosh Kumar Das"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 30,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 30,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 30,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-604",
+                "strength": 18,
+                "invigilators": ["Dr. Arohi Anand"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem IV",
+                        "capacity": 0,
+                        "course_code": "-",
+                        "course_name": "-",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-605",
+                "strength": 18,
+                "invigilators": ["Dr. Deepak Prasad"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-607",
+                "strength": 18,
+                "invigilators": ["Mr Rahul Kujur"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BCA Sem IV",
+                        "capacity": 0,
+                        "course_code": "-",
+                        "course_name": "-",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-608",
+                "strength": 18,
+                "invigilators": ["Dr Pankaj Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-501",
+                "strength": 18,
+                "invigilators": ["Dr Ramesh Kumar Singh"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-502",
+                "strength": 18,
+                "invigilators": ["Dr Swatilekha Mahato"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-503",
+                "strength": 90,
+                "invigilators": ["Dr Priyanka Pandey", "Mr Hemant Kumar Thakur", "Ms Dimpal Singhania"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 30,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 30,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 30,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-504",
+                "strength": 18,
+                "invigilators": ["Mr Abhishek Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-505",
+                "strength": 18,
+                "invigilators": ["Mr Dharmendra Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-507",
+                "strength": 18,
+                "invigilators": ["Dr Venkata N L Durga"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-508",
+                "strength": 18,
+                "invigilators": ["Mr Abhijit Chatterjee"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-401",
+                "strength": 18,
+                "invigilators": ["Mr Ravindra Nath"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-401",
+                "strength": 18,
+                "invigilators": ["Mr Ravindra Nath"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 18,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-402",
+                "strength": 22,
+                "invigilators": ["Mr Shreya Bharti"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem IV",
+                        "capacity": 16,
+                        "course_code": "BBA-401",
+                        "course_name": "Corporate and Cyber Law",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 2,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 4,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-403",
+                "strength": 36,
+                "invigilators": ["Dr Saurav Kumar"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 18,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-404",
+                "strength": 36,
+                "invigilators": ["Dr Utsav Vishal"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 18,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-405",
+                "strength": 36,
+                "invigilators": ["Dr Vijay Kumar Saw"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 18,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-406",
+                "strength": 36,
+                "invigilators": ["Dr Rashi Malpani"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 18,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-409",
+                "strength": 36,
+                "invigilators": ["Dr Sagar Sarangi"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 18,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 18,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-410",
+                "strength": 36,
+                "invigilators": ["Mr Prakash Anand"],
+                "programs": [
+                    {
+                        "program_name": "B.Com E Sem IV",
+                        "capacity": 14,
+                        "course_code": "BCHE-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 1,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE Sem IV",
+                        "capacity": 5,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com Tax Sem IV",
+                        "capacity": 3,
+                        "course_code": "BCHT-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE L Sem IV",
+                        "capacity": 13,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-301",
+                "strength": 36,
+                "invigilators": ["Ms Anusha Lal"],
+                "programs": [
+                    {
+                        "program_name": "B.Com Tax Sem IV",
+                        "capacity": 4,
+                        "course_code": "BCHT-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 1,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BBA CM Sem IV",
+                        "capacity": 13,
+                        "course_code": "BBACM-405",
+                        "course_name": "Business Research Methods",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CE Sem IV",
+                        "capacity": 6,
+                        "course_code": "PCC-CE-405",
+                        "course_name": "Building Construction",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE L Sem IV",
+                        "capacity": 8,
+                        "course_code": "PCC-CSE-403",
+                        "course_name": "Operating Systems",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CE L Sem IV",
+                        "capacity": 4,
+                        "course_code": "PCC-CE-405",
+                        "course_name": "Building Construction",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-302",
+                "strength": 36,
+                "invigilators": ["Mrs Anjana Kumari Singh"],
+                "programs": [
+                    {
+                        "program_name": "BBA CM Sem IV",
+                        "capacity": 3,
+                        "course_code": "BBACM-405",
+                        "course_name": "Business Research Methods",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eng Sem IV",
+                        "capacity": 15,
+                        "course_code": "BAE-403",
+                        "course_name": "Popular Literature",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CE L Sem IV",
+                        "capacity": 9,
+                        "course_code": "PCC-CE-405",
+                        "course_name": "Building Construction",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE Sem IV",
+                        "capacity": 6,
+                        "course_code": "PCC-EEE-405",
+                        "course_name": "Electromagnetic Fields",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE L Sem IV",
+                        "capacity": 3,
+                        "course_code": "PCC-EEE-405",
+                        "course_name": "Electromagnetic Fields",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-303",
+                "strength": 36,
+                "invigilators": ["Dr Archana Maurya"],
+                "programs": [
+                    {
+                        "program_name": "BA Eco Sem IV",
+                        "capacity": 18,
+                        "course_code": "BEH-401",
+                        "course_name": "Evolution of Economic Thought",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE L Sem IV",
+                        "capacity": 8,
+                        "course_code": "PCC-EEE-405",
+                        "course_name": "Electromagnetic Fields",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.T ME Sem IV",
+                        "capacity": 1,
+                        "course_code": "PCC-ME-406",
+                        "course_name": "Internal Combustion Engine",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.T ME L Sem IV",
+                        "capacity": 9,
+                        "course_code": "PCC-ME-406",
+                        "course_name": "Internal Combustion Engine",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-304",
+                "strength": 31,
+                "invigilators": ["Mr Amrendra Dutt Dwivedi"],
+                "programs": [
+                    {
+                        "program_name": "BA Eng Sem IV",
+                        "capacity": 18,
+                        "course_code": "BAE-403",
+                        "course_name": "Popular Literature",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.T ME L Sem IV",
+                        "capacity": 2,
+                        "course_code": "PCC-ME-406",
+                        "course_name": "Internal Combustion Engine",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.T ECE Sem IV",
+                        "capacity": 2,
+                        "course_code": "PCC-ECE-407",
+                        "course_name": "Transmission Lines & Electromagnetic Waves",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.T ECE L Sem IV",
+                        "capacity": 1,
+                        "course_code": "PCC-ECE-407",
+                        "course_name": "Transmission Lines & Electromagnetic Waves",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Sc. Maths Sem IV",
+                        "capacity": 8,
+                        "course_code": "MMC-BSMH-401",
+                        "course_name": "Partial Differential Equation",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-305",
+                "strength": 18,
+                "invigilators": ["Dr Dipti Kumari"],
+                "programs": [
+                    {
+                        "program_name": "BA Eng Sem IV",
+                        "capacity": 18,
+                        "course_code": "BAE-403",
+                        "course_name": "Popular Literature",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-306",
+                "strength": 18,
+                "invigilators": ["Dr Kunal"],
+                "programs": [
+                    {
+                        "program_name": "BA Eng Sem IV",
+                        "capacity": 18,
+                        "course_code": "BAE-403",
+                        "course_name": "Popular Literature",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A1-309",
+                "strength": 10,
+                "invigilators": ["Dr Mukesh Babu Gupta"],
+                "programs": [
+                    {
+                        "program_name": "BA Eng Sem IV",
+                        "capacity": 10,
+                        "course_code": "BAE-403",
+                        "course_name": "Popular Literature",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-107",
+                "strength": 20,
+                "invigilators": ["Dr Mukesh Kr Singh"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 20,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-108",
+                "strength": 28,
+                "invigilators": ["Dr Goutam Tanty"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 28,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-109",
+                "strength": 20,
+                "invigilators": ["Mr Samrat Banerjee"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 20,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-203",
+                "strength": 28,
+                "invigilators": ["Dr Vidushi Sharma"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 28,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-302",
+                "strength": 29,
+                "invigilators": ["Dr Atul Kumar Karn"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 26,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-303",
+                "strength": 20,
+                "invigilators": ["Dr Atul Kumar Srivastava"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 20,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-304",
+                "strength": 26,
+                "invigilators": ["Dr Durgesh Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 26,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-305",
+                "strength": 26,
+                "invigilators": ["Ms Rupa Verma"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 26,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "ADM-307",
+                "strength": 18,
+                "invigilators": ["Mrs Sonal"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 18,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-01",
+                "strength": 28,
+                "invigilators": ["Mr Sarbjeet Prasad"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 28,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-02",
+                "strength": 28,
+                "invigilators": ["Mr Vivek Kumar"],
+                "programs": [
+                    {
+                        "program_name": "BBA Sem VI",
+                        "capacity": 26,
+                        "course_code": "BBA-601",
+                        "course_name": "Insurance and Risk Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 2,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-03",
+                "strength": 24,
+                "invigilators": ["Dr Sandip Kumar Singh Modak"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 24,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-04",
+                "strength": 36,
+                "invigilators": ["Dr Rohit Kumar Yadav"],
+                "programs": [
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 28,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE L Sem VI",
+                        "capacity": 8,
+                        "course_code": "PCC-EEE-605",
+                        "course_name": "Power System-II",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-07",
+                "strength": 48,
+                "invigilators": ["Dr Ashish Kumar Sinha"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem VI",
+                        "capacity": 24,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 24,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G-09",
+                "strength": 56,
+                "invigilators": ["Dr Shubhrajit Mantry", "Dr Sanjeeb Kumar Kar"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem VI",
+                        "capacity": 28,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 28,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-G10",
+                "strength": 56,
+                "invigilators": ["Mr Ashutosh Behera", "Mr Neeraj Nayan"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem VI",
+                        "capacity": 28,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 28,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-101",
+                "strength": 56,
+                "invigilators": ["Mr Pradipta Ray", "Mr Kishlay Kumar"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE Sem VI",
+                        "capacity": 26,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 4,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com T Sem VI",
+                        "capacity": 5,
+                        "course_code": "BCHT-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com E Sem VI",
+                        "capacity": 10,
+                        "course_code": "BCHE-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BBA CM Sem VI",
+                        "capacity": 9,
+                        "course_code": "BBACM-605",
+                        "course_name": "Entrepreneurship Management",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CSE L Sem VI",
+                        "capacity": 2,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-102",
+                "strength": 48,
+                "invigilators": ["Ms Sweta Kumari", "Mr Indal Kumar"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE L Sem VI",
+                        "capacity": 28,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eco Sem VI",
+                        "capacity": 20,
+                        "course_code": "BEH-603",
+                        "course_name": "Public Economics",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-103",
+                "strength": 49,
+                "invigilators": ["Dr Anjali Srivastava", "Ms Ruchi Mishra"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CSE L Sem VI",
+                        "capacity": 1,
+                        "course_code": "PCC-CSE-602",
+                        "course_name": "Computer Graphics & Multimedia",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CE Sem VI",
+                        "capacity": 14,
+                        "course_code": "PCC-CE-601",
+                        "course_name": "Structural Analysis",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech CE L Sem VI",
+                        "capacity": 6,
+                        "course_code": "PCC-CE-601",
+                        "course_name": "Structural Analysis",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eng Sem VI",
+                        "capacity": 28,
+                        "course_code": "BAE-602",
+                        "course_name": "Postcolonial Literature",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-104",
+                "strength": 56,
+                "invigilators": ["Ms Jagriti", "Mr Sandip Chatterjee"],
+                "programs": [
+                    {
+                        "program_name": "B.Tech CE Sem VI",
+                        "capacity": 10,
+                        "course_code": "PCC-CE-601",
+                        "course_name": "Structural Analysis",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE L Sem VI",
+                        "capacity": 11,
+                        "course_code": "PCC-EEE-605",
+                        "course_name": "Power System-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech EEE Sem VI",
+                        "capacity": 7,
+                        "course_code": "PCC-EEE-605",
+                        "course_name": "Power System-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "BA Eng Sem VI",
+                        "capacity": 28,
+                        "course_code": "BAE-602",
+                        "course_name": "Postcolonial Literature",
+                        "present_examinee": 0
+                    }
+                ]
+            },
+            {
+                "room": "A2-105",
+                "strength": 35,
+                "invigilators": ["Ms Ishika Singh"],
+                "programs": [
+                    {
+                        "program_name": "BA Eng Sem VI",
+                        "capacity": 18,
+                        "course_code": "BAE-602",
+                        "course_name": "Postcolonial Literature",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Tech ECE Sem VI",
+                        "capacity": 2,
+                        "course_code": "PCC-ECE-601",
+                        "course_name": "Digital Signal Processing",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem IV",
+                        "capacity": 1,
+                        "course_code": "BCH-402",
+                        "course_name": "Corporate Accounting-II",
+                        "present_examinee": 0
+                    },
+                    {
+                        "program_name": "B.Com A/c Sem VI",
+                        "capacity": 14,
+                        "course_code": "BCH-603",
+                        "course_name": "Digital Marketing",
+                        "present_examinee": 0
+                    }
+                ]
+            }
+        ]
+    },
+
+
 ]
