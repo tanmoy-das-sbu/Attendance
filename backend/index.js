@@ -21,7 +21,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 const users = [
-  { id: 1, username: 'Admin', password: 'Birla567' },
+  { id: 1, username: 'Admin', password: 'Birla5' },
 ];
 
 passport.use(new LocalStrategy(
